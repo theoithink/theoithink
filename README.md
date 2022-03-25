@@ -1,5 +1,5 @@
 ### Hi there 👋
-## im theodore im a student and want to learn more about coding and be able to apply it in my daily life to make it even a bit easier 0w0
+# im theodore im a student and want to learn more about coding and be able to apply it in my daily life to make it even a bit easier 0w0
 
 ### About me
 - student
