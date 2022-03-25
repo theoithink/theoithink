@@ -3,7 +3,8 @@
 
 ### About me
 - student
-- hi
+- pink>>>
+- hehe
 ### Programming Languages I've tried
 - Java
 - HTML
